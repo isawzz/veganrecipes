@@ -1,4 +1,4 @@
 title: My Recipe Blog
 description: A blog sharing delicious recipes!
-baseurl: "/my-recipe-blog"  # If it's a project site
-url: "https://your-username.github.io"
+baseurl: /my-recipe-blog # If it's a project site
+url: https://your-username.github.io
